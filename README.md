@@ -1,2 +1,2 @@
-# R-Scripts
-It contains all the scripts and code + learnings from R that I gained while trying hands on programming in the language. 
+# Python4everybody 
+It contains all the scripts in book Python for everybody by Charles Severance. It teaches Python with data applications. 
